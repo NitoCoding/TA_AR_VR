@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="logo4" size="512.000000 501.760010" />
+    <ImageTarget name="yt" size="512.000000 512.000000" />
+    <ImageTarget name="play1" size="512.000000 512.000000" />
+    <ImageTarget name="1000_f_385941143_1bqvbgfmom7ugfvhdywvr1phyddpybpp" size="512.000000 366.592010" />
+    <ImageTarget name="my_pdf" size="512.000000 663.722656" />
+    <ImageTarget name="pexels-2" size="512.000000 768.000000" />
+  </Tracking>
+</QCARConfig>
